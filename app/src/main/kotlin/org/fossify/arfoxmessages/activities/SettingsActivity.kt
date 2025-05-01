@@ -109,7 +109,6 @@ class SettingsActivity : SimpleActivity() {
         setupToolbar(binding.settingsToolbar, NavigationIcon.Arrow)
 
         setupPurchaseThankYou()
-        setupCustomizeColors()
         setupCustomizeNotifications()
         setupUseEnglish()
         setupLanguage()
@@ -139,7 +138,6 @@ class SettingsActivity : SimpleActivity() {
         }
 
         arrayOf(
-            binding.settingsColorCustomizationSectionLabel,
             binding.settingsGeneralSettingsLabel,
             binding.settingsOutgoingMessagesLabel,
             binding.settingsNotificationsLabel,
@@ -174,13 +172,6 @@ class SettingsActivity : SimpleActivity() {
         settingsPurchaseThankYouHolder.beGoneIf(isOrWasThankYouInstalled())
         settingsPurchaseThankYouHolder.setOnClickListener {
             launchPurchaseThankYouIntent()
-        }
-    }
-
-    private fun setupCustomizeColors() = binding.apply {
-        settingsColorCustomizationLabel.text = getCustomizeColorsString()
-        settingsColorCustomizationHolder.setOnClickListener {
-            handleCustomizeColorsClick()
         }
     }
 
