@@ -340,10 +340,10 @@
     <ID>TooManyFunctions:ArchivedConversationsActivity.kt$ArchivedConversationsActivity : SimpleActivity</ID>
     <ID>TooManyFunctions:BaseConversationsAdapter.kt$BaseConversationsAdapter : MyRecyclerViewListAdapterOnPopupTextUpdate</ID>
     <ID>TooManyFunctions:ContactsAdapter.kt$ContactsAdapter : MyRecyclerViewAdapter</ID>
-    <ID>TooManyFunctions:Context.kt$org.fossify.messages.extensions.Context.kt</ID>
+    <ID>TooManyFunctions:Context.kt$org.fossify.arfoxmessages.extensions.Context.kt</ID>
     <ID>TooManyFunctions:ConversationsAdapter.kt$ConversationsAdapter : BaseConversationsAdapter</ID>
     <ID>TooManyFunctions:ConversationsDao.kt$ConversationsDao</ID>
-    <ID>TooManyFunctions:JsonObject.kt$org.fossify.messages.extensions.gson.JsonObject.kt</ID>
+    <ID>TooManyFunctions:JsonObject.kt$org.fossify.arfoxmessages.extensions.gson.JsonObject.kt</ID>
     <ID>TooManyFunctions:MainActivity.kt$MainActivity : SimpleActivity</ID>
     <ID>TooManyFunctions:ManageBlockedKeywordsAdapter.kt$ManageBlockedKeywordsAdapter : MyRecyclerViewAdapter</ID>
     <ID>TooManyFunctions:MessagesDao.kt$MessagesDao</ID>
@@ -370,58 +370,58 @@
     <ID>WildcardImport:Activity.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:ArchivedConversationsActivity.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:AttachmentPreviews.kt$import org.fossify.commons.extensions.*</ID>
-    <ID>WildcardImport:AttachmentPreviews.kt$import org.fossify.messages.extensions.*</ID>
+    <ID>WildcardImport:AttachmentPreviews.kt$import org.fossify.arfoxmessages.extensions.*</ID>
     <ID>WildcardImport:AttachmentsAdapter.kt$import org.fossify.commons.extensions.*</ID>
-    <ID>WildcardImport:AttachmentsAdapter.kt$import org.fossify.messages.extensions.*</ID>
-    <ID>WildcardImport:AttachmentsAdapter.kt$import org.fossify.messages.helpers.*</ID>
+    <ID>WildcardImport:AttachmentsAdapter.kt$import org.fossify.arfoxmessages.extensions.*</ID>
+    <ID>WildcardImport:AttachmentsAdapter.kt$import org.fossify.arfoxmessages.helpers.*</ID>
     <ID>WildcardImport:BaseConversationsAdapter.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:Context.kt$import android.provider.Telephony.*</ID>
     <ID>WildcardImport:Context.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:Context.kt$import org.fossify.commons.helpers.*</ID>
-    <ID>WildcardImport:Context.kt$import org.fossify.messages.helpers.*</ID>
-    <ID>WildcardImport:Context.kt$import org.fossify.messages.models.*</ID>
+    <ID>WildcardImport:Context.kt$import org.fossify.arfoxmessages.helpers.*</ID>
+    <ID>WildcardImport:Context.kt$import org.fossify.arfoxmessages.models.*</ID>
     <ID>WildcardImport:ConversationDetailsActivity.kt$import org.fossify.commons.extensions.*</ID>
-    <ID>WildcardImport:ConversationDetailsActivity.kt$import org.fossify.messages.extensions.*</ID>
+    <ID>WildcardImport:ConversationDetailsActivity.kt$import org.fossify.arfoxmessages.extensions.*</ID>
     <ID>WildcardImport:ConversationsAdapter.kt$import org.fossify.commons.extensions.*</ID>
-    <ID>WildcardImport:ConversationsAdapter.kt$import org.fossify.messages.extensions.*</ID>
-    <ID>WildcardImport:DirectReplyReceiver.kt$import org.fossify.messages.extensions.*</ID>
+    <ID>WildcardImport:ConversationsAdapter.kt$import org.fossify.arfoxmessages.extensions.*</ID>
+    <ID>WildcardImport:DirectReplyReceiver.kt$import org.fossify.arfoxmessages.extensions.*</ID>
     <ID>WildcardImport:ExportMessagesDialog.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:JsonElement.kt$import com.google.gson.*</ID>
     <ID>WildcardImport:MainActivity.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:MainActivity.kt$import org.fossify.commons.helpers.*</ID>
-    <ID>WildcardImport:MainActivity.kt$import org.fossify.messages.extensions.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import org.fossify.arfoxmessages.extensions.*</ID>
     <ID>WildcardImport:ManageBlockedKeywordsActivity.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:ManageBlockedKeywordsAdapter.kt$import android.view.*</ID>
     <ID>WildcardImport:MessagesDao.kt$import androidx.room.*</ID>
-    <ID>WildcardImport:MessagesDatabase.kt$import org.fossify.messages.models.*</ID>
-    <ID>WildcardImport:MessagesImporter.kt$import org.fossify.messages.models.*</ID>
+    <ID>WildcardImport:MessagesDatabase.kt$import org.fossify.arfoxmessages.models.*</ID>
+    <ID>WildcardImport:MessagesImporter.kt$import org.fossify.arfoxmessages.models.*</ID>
     <ID>WildcardImport:MessagesReader.kt$import org.fossify.commons.extensions.*</ID>
-    <ID>WildcardImport:MessagesReader.kt$import org.fossify.messages.models.*</ID>
-    <ID>WildcardImport:MmsReceiver.kt$import org.fossify.messages.extensions.*</ID>
+    <ID>WildcardImport:MessagesReader.kt$import org.fossify.arfoxmessages.models.*</ID>
+    <ID>WildcardImport:MmsReceiver.kt$import org.fossify.arfoxmessages.extensions.*</ID>
     <ID>WildcardImport:NewConversationActivity.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:NewConversationActivity.kt$import org.fossify.commons.helpers.*</ID>
-    <ID>WildcardImport:NewConversationActivity.kt$import org.fossify.messages.helpers.*</ID>
+    <ID>WildcardImport:NewConversationActivity.kt$import org.fossify.arfoxmessages.helpers.*</ID>
     <ID>WildcardImport:RecycleBinConversationsActivity.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:ScheduleMessageDialog.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:SettingsActivity.kt$import org.fossify.commons.dialogs.*</ID>
     <ID>WildcardImport:SettingsActivity.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:SettingsActivity.kt$import org.fossify.commons.helpers.*</ID>
-    <ID>WildcardImport:SettingsActivity.kt$import org.fossify.messages.helpers.*</ID>
-    <ID>WildcardImport:SmsReceiver.kt$import org.fossify.messages.extensions.*</ID>
-    <ID>WildcardImport:SmsStatusSentReceiver.kt$import org.fossify.messages.extensions.*</ID>
+    <ID>WildcardImport:SettingsActivity.kt$import org.fossify.arfoxmessages.helpers.*</ID>
+    <ID>WildcardImport:SmsReceiver.kt$import org.fossify.arfoxmessages.extensions.*</ID>
+    <ID>WildcardImport:SmsStatusSentReceiver.kt$import org.fossify.arfoxmessages.extensions.*</ID>
     <ID>WildcardImport:ThreadActivity.kt$import androidx.core.view.*</ID>
     <ID>WildcardImport:ThreadActivity.kt$import org.fossify.commons.extensions.*</ID>
     <ID>WildcardImport:ThreadActivity.kt$import org.fossify.commons.helpers.*</ID>
-    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.messages.extensions.*</ID>
-    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.messages.helpers.*</ID>
-    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.messages.messaging.*</ID>
-    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.messages.models.*</ID>
-    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.messages.models.ThreadItem.*</ID>
+    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.arfoxmessages.extensions.*</ID>
+    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.arfoxmessages.helpers.*</ID>
+    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.arfoxmessages.messaging.*</ID>
+    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.arfoxmessages.models.*</ID>
+    <ID>WildcardImport:ThreadActivity.kt$import org.fossify.arfoxmessages.models.ThreadItem.*</ID>
     <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.commons.extensions.*</ID>
-    <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.messages.databinding.*</ID>
-    <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.messages.extensions.*</ID>
-    <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.messages.helpers.*</ID>
-    <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.messages.models.ThreadItem.*</ID>
+    <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.arfoxmessages.databinding.*</ID>
+    <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.arfoxmessages.extensions.*</ID>
+    <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.arfoxmessages.helpers.*</ID>
+    <ID>WildcardImport:ThreadAdapter.kt$import org.fossify.arfoxmessages.models.ThreadItem.*</ID>
     <ID>WildcardImport:VCard.kt$import ezvcard.property.*</ID>
     <ID>WildcardImport:VCardViewerAdapter.kt$import org.fossify.commons.extensions.*</ID>
   </CurrentIssues>
